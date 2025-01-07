@@ -1,2 +1,2 @@
 # UCDNet
-UCDNet FCNN model based on model proposed by K. S. Basavaraju 
+Model based on architecture proposed by K. S. Basavaraju - UCDNet
