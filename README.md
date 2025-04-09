@@ -5,16 +5,16 @@ Ensemble learning - soft weighted voting based on results obtain from FC-EF, FC-
 
 
 Jupyter notebook and other models come from: 
-
 https://github.com/rcdaudt/fully_convolutional_change_detection
+
 Models  such FC-EF, FC-Siam-conc and FC-Siam-diff can be downloaded and then train, test using fully-convolutional-change-detection.ipynb
 Pretrained models for 50 epochs available here in catalogue 'Trained models'
 
-# GUIDE 
+# Brief guide 
 1. OSCD dataset - official website with dataset -> https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection
 2. After downloading it can be moved to GoogleDrive or it can be on local disk
 3. Use this notebook and use not-trained networks from there https://github.com/rcdaudt/fully_convolutional_change_detection or use trained models
-4. Before you run the notebook code, check if you have defined proper path for dataset and models.
+4. Before you run the notebook code, check if you have defined proper path for dataset and models
 5. For UCDNet model you should add at the beginning the import:
 
 ```
